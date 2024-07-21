@@ -7,6 +7,7 @@ In addition to our supplementary document, we provide an illustrative [web-video
 ![Visualization of Tracktor](data/method_vis_standalone.png)
 
 ## Implementation on Google Colab [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1DiOAHF4DHIrsFLui2Ig8CWWeqkWYYdMt?usp=sharing)
+First, Clone the repo and then, download pre-trained models [here](https://s32.picofile.com/file/8477752542/Models.zip.html)
 
 ## Installation
 
@@ -25,7 +26,7 @@ In addition to our supplementary document, we provide an illustrative [web-video
     1. Download [2DMOT2015](https://motchallenge.net/data/2DMOT2015.zip), [MOT16](https://motchallenge.net/data/MOT16.zip), [MOT17Det](https://motchallenge.net/data/MOT17Det.zip), [MOT17](https://motchallenge.net/data/MOT17.zip), [MOT20Det](https://motchallenge.net/data/MOT20Det.zip) and [MOT20](https://motchallenge.net/data/MOT20.zip) and place them in the `data` folder.
     2. Unzip all the data in the `data` directory.
 4. Download model (MOT17 object detector, MOT20 object detector, and re-identification network) and MOTChallenge result files:
-    1. Download zip file from [here](https://vision.in.tum.de/webshare/u/meinhard/tracking_wo_bnw-output_v5.zip).
+    1. Download Tracktor++v5 zip file from [here](https://vision.in.tum.de/webshare/u/meinhard/tracking_wo_bnw-output_v5.zip).
     2. Extract in `output` directory.
 
 ## Evaluate Tracktor

@@ -6,6 +6,8 @@ In addition to our supplementary document, we provide an illustrative [web-video
 
 ![Visualization of Tracktor](data/method_vis_standalone.png)
 
+## Implementation on Google Colab [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1DiOAHF4DHIrsFLui2Ig8CWWeqkWYYdMt?usp=sharing)
+
 ## Installation
 
 1. Clone and enter this repository:

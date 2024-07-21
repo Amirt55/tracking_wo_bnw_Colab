@@ -7,7 +7,7 @@ In addition to our supplementary document, we provide an illustrative [web-video
 ![Visualization of Tracktor](data/method_vis_standalone.png)
 
 ## Implementation on Google Colab [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1DiOAHF4DHIrsFLui2Ig8CWWeqkWYYdMt?usp=sharing)
-First, Clone the repo and then, download pre-trained models [here](https://s32.picofile.com/file/8477752542/Models.zip.html)
+First, Clone the repo and then, download pre-trained models [here](https://s32.picofile.com/file/8477752542/Models.zip.html).
 
 ## Installation
 
